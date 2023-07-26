@@ -1,0 +1,4 @@
+.names{display:flex;
+     flex-direction: row; 
+     justify-content: space-around; background-color: yellow;}
+.cover_info{background-color: yellow; color: blue; height: 100px;}
